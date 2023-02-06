@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+endpoints
+=========
+
+/users/signup       =>method:POST 
+
+/users/login        =>method:POST
+
+/users/logout       =>method:GET
+
+/users/newtoken     =>method:GET
+
+/products           =>method:GET
+
+/products/goldrate  =>method:GET
+
+/products/userstats =>method:GET
